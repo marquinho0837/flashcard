@@ -21,3 +21,26 @@ criaCartao(
     'Em que ano o Brasil proclamou sua independência?',
     '1822'
 )
+
+criaCartao(
+    'História',
+    'Em que ano o Brasil proclamou sua independência?',
+    '1822'
+)
+
+criaCartao(
+    'História',
+    'Em que ano o Brasil proclamou sua independência?',
+    '1822'
+    )
+
+criaCartao(
+    'História',
+    'Em que ano o Brasil proclamou sua independência?',
+    '1822'
+    )
+
+criaCartao(
+    'História',
+    'Em que ano o Brasil proclamou sua independência?',
+    '1822'
