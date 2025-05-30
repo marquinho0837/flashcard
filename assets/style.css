@@ -1,11 +1,11 @@
 :root {
     --text-color: #DBE4EF;
-    --card-front-color: #e92929;
-    --card-back-color: #f3b37f;
+    --card-front-color: #144480;
+    --card-back-color: #00F4BF;
 }
 
 body {
-    background: url('img/biblio.jpeg');
+    background: url('img/bg-desktop.webp');
     font-family: Bai Jamjuree;
 }
 
@@ -17,7 +17,7 @@ body {
     gap: 3rem;
 }
 
-cartao {
+.cartao {
     margin: 1rem 1rem;
     height: 20rem;
     flex-grow: 1;
@@ -99,7 +99,7 @@ footer p {
 @media (max-width: 560px) {
     
     body {
-        background: url('img/biblio.jpeg'), no-repeat cover;
+        background: url('img/bg-mobile.webp'), no-repeat cover;
     }
 
     .cartao {
